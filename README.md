@@ -34,8 +34,6 @@ Aplicación de escritorio para instrumentación Keysight: medidas, calibración,
 
 **Desarrollo:** Python, C/C++, Git, Linux · **Robótica y percepción:** OpenCV, TensorFlow, MATLAB/Simulink · **Software técnico:** interfaces, integración, pruebas y automatización.
 
-Me interesa que cada proyecto tenga **objetivo claro, requisitos mínimos, documentación reproducible y resultados honestos**, incluidos los límites del sistema.
-
 ---
 
 <sub>EXPLORACIÓN / INGENIERÍA · Andrés Viñe Sánchez</sub>
