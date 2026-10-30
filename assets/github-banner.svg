@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Explorar empieza por construir — Andrés Viñe Sánchez</title>
+<desc id="desc">Cabecera del perfil de GitHub en colores basalto, crema y arcilla, con el isotipo geométrico de la identidad Exploración Marciana.</desc>
+<defs>
+  <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#282924"/><stop offset="1" stop-color="#33372e"/></linearGradient>
+  <radialGradient id="halo" cx="0.7" cy="0.55" r="0.65"><stop offset="0" stop-color="#5B6254" stop-opacity="0.26"/><stop offset="1" stop-color="#5B6254" stop-opacity="0"/></radialGradient>
+  <clipPath id="frame"><rect width="1600" height="520" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1600" height="520" fill="url(#ground)"/>
+  <rect x="0" y="0" width="1600" height="520" fill="url(#halo)"/>
+  <circle cx="1353" cy="261" r="354" fill="none" stroke="#E1D7C8" stroke-opacity="0.10" stroke-width="1.5"/>
+  <circle cx="1353" cy="261" r="293" fill="none" stroke="#E1D7C8" stroke-opacity="0.14" stroke-width="1.5"/>
+  <circle cx="1353" cy="261" r="213" fill="#5B6254" fill-opacity="0.10" stroke="#D69C76" stroke-opacity="0.22" stroke-width="1.5"/>
+  <path d="M 1105 36 A 293 293 0 0 1 1594 154" stroke="#D69C76" stroke-width="3" fill="none" opacity="0.72"/>
+  <path d="M 1030 320 A 354 354 0 0 0 1282 606" stroke="#D69C76" stroke-width="2" fill="none" opacity="0.36"/>
+  <circle cx="1132" cy="76" r="5" fill="#D69C76"/>
+  <circle cx="1532" cy="405" r="3" fill="#E1D7C8" fill-opacity="0.45"/>
+  <path d="M 50 56 H 1550 M 50 463 H 1550" stroke="#E1D7C8" stroke-opacity="0.20" stroke-width="1"/>
+  <path d="M 50 56 V 81 M 1550 56 V 81 M 50 439 V 463 M 1550 439 V 463" stroke="#E1D7C8" stroke-opacity="0.38" stroke-width="2"/>
+  <rect x="70" y="98" width="26" height="3" fill="#AF5037"/>
+  <text x="115" y="109" fill="#D69C76" font-size="19" letter-spacing="4.1" font-family="Inter, Arial, sans-serif" font-weight="600">INGENIERÍA  /  EXPLORACIÓN</text>
+  <text x="70" y="255" fill="#FAF7F1" font-size="88" letter-spacing="-4.5" font-family="Inter Display, Inter, Arial, sans-serif" font-weight="700">Explorar empieza</text>
+  <text x="70" y="349" fill="#D69C76" font-size="88" letter-spacing="-4.5" font-family="Inter Display, Inter, Arial, sans-serif" font-weight="700">por construir.</text>
+  <text x="70" y="425" fill="#E1D7C8" font-size="23" font-family="Inter, Arial, sans-serif" font-weight="400">Robótica   ·   Visión artificial   ·   Control   ·   Software</text>
+  <text x="1530" y="495" text-anchor="end" fill="#E1D7C8" fill-opacity="0.74" font-size="15" letter-spacing="3" font-family="Inter, Arial, sans-serif" font-weight="600">AVS / 2026</text>
+  <!-- Isotipo geométrico vectorizado a partir del logotipo original de la marca -->
+  <g transform="translate(1270 157) scale(0.205)" fill="#FAF7F1" opacity="0.93">
+    <path d="M435 27 L27 767 L400 577 Q388 432 435 281 Q483 432 471 577 L844 767 Z"/>
+    <path d="M415 636 L395 683 L436 786 L476 681 L456 636 Q436 644 415 636 Z"/>
+  </g>
+</g>
+</svg>
