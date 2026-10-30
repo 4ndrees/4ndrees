@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="Explorar empieza por construir. Robótica, visión artificial, control y software. Identidad Exploración Marciana." width="100%" />
+  <img src="assets/github-banner.svg" alt="Explorar empieza por construir. Robótica, visión artificial, control y software. Identidad Exploración Marciana." width="100%" />
 </p>
 
 ### Hola, soy Andrés.
